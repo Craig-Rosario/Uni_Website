@@ -1,1 +1,1 @@
-# Uni_Website
+This is a college website landing page
